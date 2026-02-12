@@ -1,0 +1,8 @@
+
+{
+  "name": "Chandra-Vision v1.0",
+  "description": "An advanced professional gesture recognition and virtual drawing system developed for high-precision hand tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
