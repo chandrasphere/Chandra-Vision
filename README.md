@@ -1,20 +1,25 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+Chandra-Vision v1.0 🚀
 
-# Run and deploy your AI Studio app
+Advanced AI-Powered Gesture Recognition Engine
+Chandra-Vision is a high-performance computer vision application that enables real-time "Air Writing" through hand gesture tracking. Developed as part of my 3rd-year B.Tech curriculum at Noida Institute of Engineering and Technology (NIET), this project bridges the gap between human gestures and digital input.
 
-This contains everything you need to run your app locally.
+✨ Key Features
+Real-time Hand Tracking: Uses MediaPipe for low-latency detection of 21 hand landmarks.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1O2AGMMFI03Dxm0mJr0Hu7FRWR0Dv-ORH
+Smooth Line Algorithm: Implemented a custom coordinate smoothing algorithm to ensure clean, professional drawing strokes.
 
-## Run Locally
+Neural Text Extraction: Integrated with Gemini AI for high-accuracy OCR (Optical Character Recognition) to convert hand-drawn text into digital format.
 
-**Prerequisites:**  Node.js
+Chandra-Vision UI: A clean, industrial-grade dark theme interface designed for professional use.
 
+🛠️ Tech Stack
+Frontend: React.js / Vite
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Computer Vision: OpenCV & MediaPipe
+
+AI Model: Google Gemini API
+
+Styling: Tailwind CSS
+
+🚀 Deployment
+The project is optimized for deployment on Vercel for seamless web access.
