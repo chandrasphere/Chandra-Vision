@@ -4,7 +4,7 @@ Transforming Air Gestures into Digital Reality
 Chandra-Vision is a cutting-edge Computer Vision engine designed for high-precision Air-Writing and Gesture Recognition. By leveraging advanced hand-tracking models, it allows users to interact with a digital canvas through natural hand movements, bypassing traditional input devices.
 
 
-🚀 Key Features
+🚀 KEY FEATURES
 Intelligent Hand Tracking: Real-time detection of 21 hand landmarks for low-latency responsiveness.
 
 Precision Smoothing Algorithm: A custom-built path stabilizer that filters shaky movements into professional, clean strokes.
@@ -19,7 +19,7 @@ Triple Finger: Neural processing and text analysis.
 
 Industrial Dark Interface: A minimalist, high-contrast dashboard designed for focus and professional usability.
 
-🛠️ The Technology Stack
+🛠️ THE TECHNOLOGY STACK
 Core Engine: React.js with Vite for blazing-fast performance.
 
 Vision Logic: MediaPipe & OpenCV-inspired coordinate mapping.
@@ -28,7 +28,7 @@ Neural Layer: Integrated with Gemini AI for advanced pattern recognition and OCR
 
 Styling: Custom Tailwind CSS implementation with a charcoal-industrial theme.
 
-📂 Architecture Overview
+📂 ARCHITECTURE OVERVIEW
 /components: Modular UI units (Toolbar, AirCanvas, SystemStatus).
 
 /hooks: The brain of the system, handling gesture logic and landmark calculations.
@@ -37,7 +37,7 @@ Styling: Custom Tailwind CSS implementation with a charcoal-industrial theme.
 
 /public: Asset management and system icons.
 
-🌟 Future Roadmap
+🌟 FUTURE ROADMAP
 3D Spatial Writing: Transitioning from 2D canvas to 3D coordinate space.
 
 Edge Processing: Moving towards local-first AI processing for zero-latency offline use.
