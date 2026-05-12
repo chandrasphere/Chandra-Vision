@@ -1,7 +1,7 @@
-🌌 Chandra-Vision v1.0
+🌌 HandTrack AI
 
 Transforming Air Gestures into Digital Reality
-Chandra-Vision is a cutting-edge Computer Vision engine designed for high-precision Air-Writing and Gesture Recognition. By leveraging advanced hand-tracking models, it allows users to interact with a digital canvas through natural hand movements, bypassing traditional input devices.
+Chandra-Vision is a cutting-edge HandTrack AI engine designed for high-precision Air-Writing and Gesture Recognition. By leveraging advanced hand-tracking models, it allows users to interact with a digital canvas through natural hand movements, bypassing traditional input devices.
 
 
 🚀 KEY FEATURES
